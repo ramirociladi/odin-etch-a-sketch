@@ -4,7 +4,14 @@ The "Etch-a-Sketch" project is a web-based application that allows users to draw
 
 ## Overview
 
-The project emphasizes the use of JavaScript to dynamically create and modify HTML elements in response to user input. Key skills include event handling, DOM manipulation, loops and control flow, and object-oriented programming.
+The project aims to put into practice web development skills such as HTML, CSS, and JavaScript. Specifically, it emphasizes the use of JavaScript to manipulate the DOM (Document Object Model) to dynamically create and modify HTML elements in response to user input.
+
+The project requires several key JavaScript skills, including:
+
+- Event handling: capturing user input (e.g. mouse movements) and responding to it in real time
+- DOM manipulation: creating, modifying, and deleting HTML elements to update the display of the grid and user's drawing
+- Loops and control flow: using loops and conditionals to efficiently generate and manipulate the grid of squares
+- Object-oriented programming: creating reusable and modular code by encapsulating functionality into objects and methods.
 
 ## Requirements
 
